@@ -6,7 +6,7 @@ I work across Rust, Python, and .NET, with an emphasis on local-first AI, reprod
 
 ## Current focus
 
-- **poorAI** — a model- and hardware-aware coding agent in Rust for local Ollama deployments. It combines empirical capability probing, context calibration, repository retrieval, typed tools, and deterministic task verification. A public alpha is in preparation.
+- [**poorAI**](https://github.com/VitoSanta/PoorAI) — a model- and hardware-aware coding agent in Rust for local Ollama deployments. It combines empirical capability probing, context calibration, repository retrieval, typed tools, and deterministic task verification. Available as a public alpha.
 
 ## Selected work
 
