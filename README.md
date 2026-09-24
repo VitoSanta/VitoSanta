@@ -6,7 +6,7 @@ I build with Rust, Python, .NET/C#, TypeScript, and Angular. My current research
 
 ## Current focus
 
-- [**poorAI**](https://github.com/VitoSanta/PoorAI) — an experimental local agent harness, with software engineering as its first proving ground. It gives locally served models a conversation loop, typed tools for working in repositories, explicit permissions, and task verification. The public alpha includes its own MLX inference engine and a Tauri + Angular desktop app. A llama.cpp / GGUF path exists with substantial performance limitations; Windows support and reliable gains for smaller models remain research goals. The project measures how changes to the harness affect results and resource cost. See the [current status and evidence](https://github.com/VitoSanta/PoorAI#current-maturity).
+- [**PWR**](https://github.com/VitoSanta/PWR) — an experimental local coding agent for working in repositories with locally served models. It combines a conversation loop, typed tools, explicit permissions, task verification, an MLX inference engine, and a Tauri + Angular desktop app. The project measures how changes to the agent affect task outcomes and resource cost, and documents where support remains limited. See the [current status and evidence](https://github.com/VitoSanta/PWR#current-maturity).
 
 ## Selected work
 
